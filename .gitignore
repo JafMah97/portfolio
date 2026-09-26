@@ -5,3 +5,7 @@ out
 next-env.d.ts
 .env*.local
 .DS_Store
+
+# AI assistant instruction files (kept locally, not in the repo)
+CLAUDE.md
+AGENTS.md
